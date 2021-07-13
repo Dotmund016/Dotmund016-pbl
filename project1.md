@@ -43,4 +43,4 @@ This open a blank file, and a valid PHP code was pasted inside the file:
 phpinfo();
 When it was saved and the website refreshed the php showed up as seen below 
 ![Screenshot PhP version](https://user-images.githubusercontent.com/87065881/125527065-21858683-c3f5-4340-ae95-3f2722f59831.png)
-Aterwards the command sudo rm /var/www/projectlamp/index.php was used to remove the fileas it showed the information of PHP environment -and your Ubuntu server.
+Aterwards the command sudo rm /var/www/projectlamp/index.php was used to remove the file as it showed the information of PHP environment and our Ubuntu server.
